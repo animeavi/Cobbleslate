@@ -1,0 +1,6 @@
+name: Cobbleslate
+author: Zero
+version: 1.0
+main: io.github.animeavi.cobbleslate.Cobbleslate
+api-version: '1.20'
+description: A spigot plugin to make Deepslate break (roughly) as fast as Cobblestone.
